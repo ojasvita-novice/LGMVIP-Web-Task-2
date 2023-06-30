@@ -1,0 +1,13 @@
+.navbar-brand
+{
+    background-color: rgb(183, 179, 179);
+    border: 5px double black;
+    padding:4px;
+    font-style:italic;
+}
+
+.bckg
+{
+
+    background-color:rgb(209, 206, 206);
+}
